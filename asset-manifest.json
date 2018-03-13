@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.2f85c43b.css",
-  "main.css.map": "static/css/main.2f85c43b.css.map",
-  "main.js": "static/js/main.6bf3ef25.js",
-  "main.js.map": "static/js/main.6bf3ef25.js.map",
+  "main.css": "static/css/main.28e1302a.css",
+  "main.css.map": "static/css/main.28e1302a.css.map",
+  "main.js": "static/js/main.d1bc9058.js",
+  "main.js.map": "static/js/main.d1bc9058.js.map",
   "static/media/BUU.jpg": "static/media/BUU.88e0cdbe.jpg",
   "static/media/Dan.png": "static/media/Dan.0591ecdf.png",
   "static/media/Dona.png": "static/media/Dona.85030b46.png",
@@ -18,6 +18,6 @@
   "static/media/None.jpg": "static/media/None.6ec9e8e4.jpg",
   "static/media/Zet.jpg": "static/media/Zet.84bd4769.jpg",
   "static/media/Zet2.jpg": "static/media/Zet2.a50ee39d.jpg",
-  "static/media/background3.jpg": "static/media/background3.49d6c2ac.jpg",
+  "static/media/background.jpeg": "static/media/background.3b335c47.jpeg",
   "static/media/mail2.svg": "static/media/mail2.d1ff19b4.svg"
 }
